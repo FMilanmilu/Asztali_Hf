@@ -1,0 +1,14 @@
+C:\Users\Milu\OneDrive - BGSzC Pestszentlőrinci Technikum\VisualStudio\2025_09_16_hf\2025_09_16_hf\obj\Debug\net8.0\2025_09_16_hf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milu\OneDrive - BGSzC Pestszentlőrinci Technikum\VisualStudio\2025_09_16_hf\2025_09_16_hf\obj\Debug\net8.0\2025_09_16_hf.AssemblyInfoInputs.cache
+C:\Users\Milu\OneDrive - BGSzC Pestszentlőrinci Technikum\VisualStudio\2025_09_16_hf\2025_09_16_hf\obj\Debug\net8.0\2025_09_16_hf.AssemblyInfo.cs
+C:\Users\Milu\OneDrive - BGSzC Pestszentlőrinci Technikum\VisualStudio\2025_09_16_hf\2025_09_16_hf\obj\Debug\net8.0\2025_09_16_hf.csproj.CoreCompileInputs.cache
+C:\Users\Milu\OneDrive - BGSzC Pestszentlőrinci Technikum\VisualStudio\2025_09_16_hf\2025_09_16_hf\bin\Debug\net8.0\2025_09_16_hf.exe
+C:\Users\Milu\OneDrive - BGSzC Pestszentlőrinci Technikum\VisualStudio\2025_09_16_hf\2025_09_16_hf\bin\Debug\net8.0\2025_09_16_hf.deps.json
+C:\Users\Milu\OneDrive - BGSzC Pestszentlőrinci Technikum\VisualStudio\2025_09_16_hf\2025_09_16_hf\bin\Debug\net8.0\2025_09_16_hf.runtimeconfig.json
+C:\Users\Milu\OneDrive - BGSzC Pestszentlőrinci Technikum\VisualStudio\2025_09_16_hf\2025_09_16_hf\bin\Debug\net8.0\2025_09_16_hf.dll
+C:\Users\Milu\OneDrive - BGSzC Pestszentlőrinci Technikum\VisualStudio\2025_09_16_hf\2025_09_16_hf\bin\Debug\net8.0\2025_09_16_hf.pdb
+C:\Users\Milu\OneDrive - BGSzC Pestszentlőrinci Technikum\VisualStudio\2025_09_16_hf\2025_09_16_hf\obj\Debug\net8.0\2025_09_16_hf.dll
+C:\Users\Milu\OneDrive - BGSzC Pestszentlőrinci Technikum\VisualStudio\2025_09_16_hf\2025_09_16_hf\obj\Debug\net8.0\refint\2025_09_16_hf.dll
+C:\Users\Milu\OneDrive - BGSzC Pestszentlőrinci Technikum\VisualStudio\2025_09_16_hf\2025_09_16_hf\obj\Debug\net8.0\2025_09_16_hf.pdb
+C:\Users\Milu\OneDrive - BGSzC Pestszentlőrinci Technikum\VisualStudio\2025_09_16_hf\2025_09_16_hf\obj\Debug\net8.0\2025_09_16_hf.genruntimeconfig.cache
+C:\Users\Milu\OneDrive - BGSzC Pestszentlőrinci Technikum\VisualStudio\2025_09_16_hf\2025_09_16_hf\obj\Debug\net8.0\ref\2025_09_16_hf.dll
