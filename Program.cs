@@ -63,3 +63,5 @@ namespace _2025_09_16_hf
         }
     }
 }
+
+//bizonyíték, hogy megpróbáltam
